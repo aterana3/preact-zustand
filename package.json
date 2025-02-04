@@ -1,6 +1,6 @@
 {
   "name": "preact-zustand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🐻 Bear necessities for state management in Preact",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
