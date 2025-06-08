@@ -9,35 +9,35 @@ importers:
   .:
     dependencies:
       preact:
-        specifier: ^10.25.4
+        specifier: ^10.26.8
         version: 10.26.8
       preact-zustand:
         specifier: file:..
         version: file:..(preact@10.26.8)(zustand@5.0.5)
       zustand:
-        specifier: ^5.0.3
+        specifier: ^5.0.5
         version: 5.0.5
     devDependencies:
       '@eslint/js':
-        specifier: ^9.19.0
+        specifier: ^9.28.0
         version: 9.28.0
       '@preact/preset-vite':
-        specifier: ^2.10.0
+        specifier: ^2.10.1
         version: 2.10.1(@babel/core@7.27.4)(preact@10.26.8)(vite@6.3.5(@types/node@22.15.30))
       '@types/node':
-        specifier: ^22.10.10
+        specifier: ^22.15.30
         version: 22.15.30
       '@typescript-eslint/eslint-plugin':
-        specifier: ^8.21.0
+        specifier: ^8.33.1
         version: 8.33.1(@typescript-eslint/parser@8.33.1(eslint@9.28.0)(typescript@5.8.3))(eslint@9.28.0)(typescript@5.8.3)
       '@typescript-eslint/parser':
-        specifier: ^8.21.0
+        specifier: ^8.33.1
         version: 8.33.1(eslint@9.28.0)(typescript@5.8.3)
       typescript:
-        specifier: ^5.7.3
+        specifier: ^5.8.3
         version: 5.8.3
       vite:
-        specifier: ^6.0.11
+        specifier: ^6.3.5
         version: 6.3.5(@types/node@22.15.30)
 
 packages:
